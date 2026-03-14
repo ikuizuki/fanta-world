@@ -20,12 +20,12 @@ git remote add origin https://github.com/ikuizuki/fanta-world-game.git
 git push -u origin main
 
 đẩy kho lưu trữ lên git
-git remote add origin https://github.com/ikuizuki/fanta-world-game.git
+git remote add origin https://github.com/ikuizuki/fanta-world.git
 git branch -M main
 git push -u origin main
 
-link fanta-world-game https://github.com/ikuizuki/fanta-world-game.git
+link fanta-world-game https://github.com/ikuizuki/fanta-world.git
 git init
 git branch -M main
-git remote add origin https://github.com/ikuizuki/fanta-world-game.git
+git remote add origin https://github.com/ikuizuki/fanta-world.git
 git add . && git commit -m "update" && git push
