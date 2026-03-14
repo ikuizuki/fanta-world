@@ -20,7 +20,7 @@ git remote add origin https://github.com/ikuizuki/fanta-world-game.git
 git push -u origin main
 
 đẩy kho lưu trữ lên git
-git remote add origin {link repo}
+git remote add origin https://github.com/ikuizuki/fanta-world-game.git
 git branch -M main
 git push -u origin main
 
